@@ -3,8 +3,6 @@
 
 **Author:** Mikita Hudalin
 
-**Supervisor:** dr Tomasz Ząbkowski
-
 **Institution:** Warsaw University of Life Sciences (SGGW) – Institute of Technical Informatics
 
 **Year:** 2025
